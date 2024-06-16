@@ -1,0 +1,1 @@
+Based on https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/deployment_guide/sec-using_openssh_certificate_authentication and https://ibug.io/blog/2019/12/manage-servers-with-ssh-ca/
