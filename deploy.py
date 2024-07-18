@@ -2,7 +2,7 @@
 import argparse
 import subprocess
 
-parser = argparse.ArgumentParser(prog='deploy_user')
+parser = argparse.ArgumentParser(prog='deploy')
 parser.add_argument('-p', '--port', type=int, default=22)
 parser.add_argument('-n', '--hostname')
 parser.add_argument('ssh_uri')
